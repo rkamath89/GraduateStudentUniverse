@@ -1,0 +1,26 @@
+
+-- Create A DataBase
+Create database MySQLDB;
+
+-- Create Table TuMesa Script
+Create Table TuMesa
+(
+	TuMesaId int NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	TuMesaDescription varchar(50)
+);
+
+-- Insert Records [ 5 Records ]
+Insert into TuMesa (TuMesaDescription)
+Values ('Entry 1');
+Insert into TuMesa (TuMesaDescription)
+Values ('Entry 2');
+Insert into TuMesa (TuMesaDescription)
+Values ('Entry 3');
+Insert into TuMesa (TuMesaDescription)
+Values ('Entry 4');
+Insert into TuMesa (TuMesaDescription)
+Values ('Entry 5');
+
+-- Select Query to Check Records in DB
+SELECT * FROM dbo.TuMesa;
+

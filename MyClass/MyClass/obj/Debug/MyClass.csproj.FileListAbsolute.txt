@@ -1,0 +1,5 @@
+C:\Users\rkamath\Desktop\GraduateStudentUniverse\MyClass\MyClass\bin\Debug\MyClass.dll
+C:\Users\rkamath\Desktop\GraduateStudentUniverse\MyClass\MyClass\bin\Debug\MyClass.pdb
+C:\Users\rkamath\Desktop\GraduateStudentUniverse\MyClass\MyClass\obj\Debug\MyClass.csprojResolveAssemblyReference.cache
+C:\Users\rkamath\Desktop\GraduateStudentUniverse\MyClass\MyClass\obj\Debug\MyClass.dll
+C:\Users\rkamath\Desktop\GraduateStudentUniverse\MyClass\MyClass\obj\Debug\MyClass.pdb

@@ -1,0 +1,17 @@
+USE MySQLDB;
+GO
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		Rahul
+-- Create date: 
+-- Description:	Delete All Records
+-- =============================================
+CREATE PROCEDURE deleteAllRecords 
+AS
+BEGIN
+	DELETE from dbo.TuMesa
+END
+GO
